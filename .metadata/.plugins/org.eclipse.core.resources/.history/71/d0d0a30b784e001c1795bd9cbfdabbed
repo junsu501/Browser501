@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+1. .box > ul > li > p {color: orange;}<br>
+2. header .menu li:nth-child(2) {background: red;}<br>
+3. #wrap .content .prod {border: 3px dashed gray;}<br>
+</body>
+</html>

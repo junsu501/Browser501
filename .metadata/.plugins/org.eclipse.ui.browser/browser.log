@@ -1,0 +1,47 @@
+
+11월 26, 2021 24:42:48.825 NEW SESSION
+11월 26, 2021 24:42:48.825 [2668:4924:1126/004248.823:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 26, 2021 24:42:48.826 [2668:4924:1126/004248.823:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 26, 2021 24:42:48.827 [2668:4924:1126/004248.823:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 26, 2021 24:42:48.827 [2668:4924:1126/004248.826:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+11월 26, 2021 24:42:48.841 [2668:17076:1126/004248.841:ERROR:device_event_log_impl.cc(214)] [00:42:48.840] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:42:48.841 [2668:17076:1126/004248.841:ERROR:device_event_log_impl.cc(214)] [00:42:48.841] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:42:48.842 [2668:17076:1126/004248.841:ERROR:device_event_log_impl.cc(214)] [00:42:48.841] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:42:59.305 [7376:12144:1126/004259.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 26, 2021 24:42:59.305 [7376:12144:1126/004259.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 26, 2021 24:42:59.306 [7376:12144:1126/004259.304:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 26, 2021 24:42:59.309 [7376:12144:1126/004259.308:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+11월 26, 2021 24:42:59.310 [7376:24128:1126/004259.310:ERROR:device_event_log_impl.cc(214)] [00:42:59.309] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:42:59.316 [7376:24128:1126/004259.316:ERROR:device_event_log_impl.cc(214)] [00:42:59.315] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:43:18.918 [14052:9172:1126/004318.918:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 26, 2021 24:43:18.919 [14052:9172:1126/004318.918:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 26, 2021 24:43:18.920 [14052:9172:1126/004318.918:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 26, 2021 24:43:18.923 [14052:13512:1126/004318.922:ERROR:device_event_log_impl.cc(214)] [00:43:18.922] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 24:43:18.924 [14052:9172:1126/004318.922:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+11월 26, 2021 24:43:18.924 [14052:13512:1126/004318.923:ERROR:device_event_log_impl.cc(214)] [00:43:18.923] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 11:38:00.551 [13836:22676:1126/113800.549:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 26, 2021 11:38:00.551 [13836:22676:1126/113800.550:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 26, 2021 11:38:00.552 [13836:22676:1126/113800.550:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 26, 2021 11:38:00.555 [13836:1368:1126/113800.555:ERROR:device_event_log_impl.cc(214)] [11:38:00.554] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 11:38:00.556 [13836:22676:1126/113800.555:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+11월 26, 2021 11:38:00.557 [13836:1368:1126/113800.556:ERROR:device_event_log_impl.cc(214)] [11:38:00.556] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 26, 2021 14:03:27.91 [13836:1368:1126/140327.090:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 26, 2021 16:06:39.996 [13836:3348:1126/160639.995:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 16:07:05.646 [13836:3348:1126/160705.645:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 16:08:00.689 [13836:3348:1126/160800.689:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 16:09:58.578 [13836:3348:1126/160958.578:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 16:13:09.478 [13836:3348:1126/161309.478:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 17:51:33.16 [13836:3348:1126/175133.015:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 17:51:33.17 [13836:23060:1126/175133.016:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 19:25:26.593 [13836:3348:1126/192526.592:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 19:25:26.628 [13836:10388:1126/192526.627:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 19:25:26.910 [13836:1368:1126/192526.909:ERROR:device_event_log_impl.cc(214)] [19:25:26.908] USB: usb_service_win.cc:355 Could not get child device's service name: 요소가 없습니다. (0x490)
+11월 26, 2021 19:27:19.132 [13836:10388:1126/192719.131:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 19:30:07.889 [13836:10388:1126/193007.889:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 19:39:44.494 [13836:3348:1126/193944.493:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 19:39:44.520 [13836:10388:1126/193944.519:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 22:00:40.505 [13836:3348:1126/220040.504:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+11월 26, 2021 22:00:40.510 [13836:6180:1126/220040.510:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+11월 26, 2021 22:00:55.542 [13836:3348:1126/220055.541:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+11월 26, 2021 22:01:20.983 [13836:1368:1126/220120.983:ERROR:device_event_log_impl.cc(214)] [22:01:20.983] USB: usb_service_win.cc:261 Failed to get device driver name: 요소가 없습니다. (0x490)
+11월 26, 2021 22:01:22.181 [13836:3348:1126/220122.181:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

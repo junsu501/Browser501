@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DOM</title>
+</head>
+<body>
+<img src="DOM.gif"><br>
+<div>
+	<h1>선호하는 음식</h1>
+	<div id="food_1">
+	<h2 id="title">한식</h2>
+	
+	</div>
+
+</div>
+</body>
+</html>

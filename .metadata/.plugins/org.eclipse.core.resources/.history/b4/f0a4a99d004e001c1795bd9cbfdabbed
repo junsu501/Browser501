@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>2019년 달력</title>
+</head>
+<SCRIPT>
+
+// 시간을 읽어와서 오전/오후로 브라우저에 보여줄 수 있게 해줍니다.
+function get_Time() 
+{
+  var now = new Date();
+  var hour = now.getHours();
+  var minute = now.getMinutes();
+  var ampm;
+
+  now = null;
+
+  if (hour >= 12) {
+      hour -= 12
+      ampm = "오후"
+   } else
+      ampm = "오전"
+
+  hour = (hour == 0) ? 12 : hour
+
+  if (minute < 10)
+    minute = "0" + minute 
+
+  return ampm + hour + ":" + minute 
+}
+
+// 년과 달을 받아서 마지막 일을 알아 냅니다.
+function get_Day(year, month) 
+{
+ var Last_Mon = new Array(31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
+ var Mon2
+
+ if (year % 4 == 0) 
+  Mon2 = true 
+ else 
+  Mon2 = false 
+
+ Last_Mon[1] = (Mon2) ? 29 : 28 
+	
+ return Last_Mon[month]
+}
+
+// table태그를 이용하여 달력을 만들어 줍니다.
+function drawCal(year, monthName) 
+{
+ var text = "<table><tr colspan='7'>"+year+"년"+monthName+"</tr></table>"
+
+return text;
+}
+
+
+document.write(darwCal(2019,9));
+</SCRIPT>
+
+<body>
+
+
+
+</body>
+</html>
